@@ -8,4 +8,5 @@ Conventional exoskeleton controls like proportional-integral-derivative (PID) re
 
 ## Folder Structure
 
-- `control-algorithms/`: This folder contains the code implementations for MPC, LQR, and iLQR
+- `control-algorithms/`: This folder contains the code implementations for MPC, LQR, and iLQR control algorithms.
+- `docs/`: This folder contains the project documentation, including the final project report.
